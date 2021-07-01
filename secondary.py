@@ -1,5 +1,5 @@
-#author: <author here>
-# date: <date here>
+#author: <Samaiya Howard>
+# date: <7/1/21>
 
 # --------------- Section 3 --------------- #
 #  String Duplication / Pattern Recognition #
@@ -13,7 +13,12 @@
 # $$$
 # $$$$
 # $$$$$
-
+print()
+print("%")
+print("%" * 2)
+print("%" * 3)
+print("%" * 4)
+print("%" * 5)
 
 
 # create the following pattern using string duplication and print statments:
@@ -23,7 +28,12 @@
 # $$$
 # $$
 # $
-
+print()
+print("%" * 5)
+print("%" * 4)
+print("%" * 3)
+print("%" * 2)
+print("%")
 
 
 # create the following pattern using string duplication and print statments:
@@ -33,7 +43,12 @@
 #   $$$
 #  $$$$
 # $$$$$
-
+print()
+print('     %')
+print('    %%')
+print('   %%%')
+print('  %%%%')
+print(' %%%%%')
 
 
 # create the following pattern using string duplication and print statments:
@@ -43,3 +58,9 @@
 #   $$$
 #    $$
 #     $
+print()
+print(' %%%%%')
+print('  %%%%')
+print('   %%%')
+print('    %%')
+print('     %')

@@ -1,5 +1,5 @@
-name: <name here>
-date: <date here>
+name: <Samaiya Howard>
+date: <7/1/21>
 
 Data Types and Operations | Questions
 
@@ -8,43 +8,44 @@ Please answer all of the following questions thoughtfully and completely.
 
 
 1a - What is the resulting type of two integers used together for an operation, like 5 + 4?
-
+ an integer
 
 
 1b - Is there an exception to this rule, with a certain operator?
-
+yes, with strings
 
 
 2a - What is the resulting type of an integer and a float used together for an operation, like -11.4 - 5?
-
+a float
 
 
 2b - Is there an exception to this rule, with a certain operator?
-
+No
 
 
 3a - What is the resulting type of two floats used together for an operation, like 2.3 * .45?
-
+a float
 
 
 3b - Is there an exception to this rule, with a certain operator?
-
+No
 
 
 4 - What is string concatenation? How does it work?
-
+String concatenation is when two strings combind into one word. String concatenation works as two seprate strings are combined with an "+" operator.
 
 
 5 - What is string duplication? How does it work?
-
+String duplication is when a string is duplicated by the amount you choose. String duplication works by taking one string statement and multiplying using the "*" operator with the string to duplicate the statement.
 
 
 6 - Can you combine strings and integers? What about strings and floats? What happens if you do?
-
+No, you can not combine strings and integers this would result in a type error. You can combine strings and floats it would just results as a float.
 
 
 7 - What does this tell you about how strings can interact with integers or floats?
-
+Strings can have many things to do with floats and integers but strings has their limitations.
 
 
 8 - Can you use one of the operators to determine if a number is even or odd?
+yes, by using true division and dividing the number by 2.
