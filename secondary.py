@@ -49,6 +49,7 @@ print('    %%')
 print('   %%%')
 print('  %%%%')
 print(' %%%%%')
+print(' ' *4 + '%' *2)
 
 
 # create the following pattern using string duplication and print statments:

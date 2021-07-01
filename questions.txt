@@ -12,7 +12,7 @@ Please answer all of the following questions thoughtfully and completely.
 
 
 1b - Is there an exception to this rule, with a certain operator?
-yes, with strings
+yes, with true division
 
 
 2a - What is the resulting type of an integer and a float used together for an operation, like -11.4 - 5?
@@ -20,7 +20,7 @@ a float
 
 
 2b - Is there an exception to this rule, with a certain operator?
-No
+yes, floor division and modulus
 
 
 3a - What is the resulting type of two floats used together for an operation, like 2.3 * .45?
@@ -28,7 +28,7 @@ a float
 
 
 3b - Is there an exception to this rule, with a certain operator?
-No
+yes, floor division 
 
 
 4 - What is string concatenation? How does it work?
@@ -48,4 +48,4 @@ Strings can have many things to do with floats and integers but strings has thei
 
 
 8 - Can you use one of the operators to determine if a number is even or odd?
-yes, by using true division and dividing the number by 2.
+yes, by using modulus division and dividing the number by 2.
