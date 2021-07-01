@@ -44,12 +44,12 @@ print("%")
 #  $$$$
 # $$$$$
 print()
-print('     %')
-print('    %%')
-print('   %%%')
-print('  %%%%')
-print(' %%%%%')
+print(' ' *5 + '%' *1)
 print(' ' *4 + '%' *2)
+print(' ' *3 + '%' *3)
+print(' ' *2 + '%' *4)
+print(' ' *1 + '%' *5)
+
 
 
 # create the following pattern using string duplication and print statments:
@@ -60,8 +60,8 @@ print(' ' *4 + '%' *2)
 #    $$
 #     $
 print()
-print(' %%%%%')
-print('  %%%%')
-print('   %%%')
-print('    %%')
-print('     %')
+print(' ' *1 + '%' *5)
+print(' ' *2 + '%' *4)
+print(' ' *3 + '%' *3)
+print(' ' *4 + '%' *2)
+print(' ' *5 + '%' *1)
